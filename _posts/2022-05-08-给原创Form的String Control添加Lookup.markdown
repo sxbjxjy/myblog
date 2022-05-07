@@ -7,7 +7,7 @@ category: sample
 
 # 给原创Form的String Control添加Lookup
 
-```x++
+```axapta
 public void lookup()
     {
         Query query = new Query();
