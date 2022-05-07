@@ -7,7 +7,7 @@ category: sample
 
 # 给原创Form的String Control添加Lookup
 
-```C#
+```xpp
 public void lookup()
     {
         Query query = new Query();
