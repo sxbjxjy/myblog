@@ -4,7 +4,6 @@ title: 给原创Form的String Control添加Lookup
 date: 2022-05-08
 category: Form
 ---
-# 给原创Form的String Control添加Lookup
 
 ```csharp
 public void lookup()
