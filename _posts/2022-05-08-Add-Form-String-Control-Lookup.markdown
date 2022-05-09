@@ -1,12 +1,12 @@
 ---
 layout: post
 title: 给原创Form的String Control添加Lookup
-date: 2022-05-08 19:20:23 +0900
+date: 2022-05-08
 category: sample
 ---
 # 给原创Form的String Control添加Lookup
 
-```xpp
+```axapta
 public void lookup()
     {
         Query query = new Query();
