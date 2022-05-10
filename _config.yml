@@ -22,15 +22,15 @@ title: Dynamics
 email: sxbjxjy@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   D365FO
-# baseurl: "/" # the subpath of your site, e.g. /blog
-# url: "http://ejjoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "http://sxbjxjy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: sxbjxjy
-highlighter: rouge
+# highlighter: rouge
 svg:
   optimize: true
 # Build settings
 # theme: minima
-ighlighter-theme: monokai
+# highter-theme: colorful
 date_format: "%Y-%M-%D"
 plugins:
   - jekyll-feed
