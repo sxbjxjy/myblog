@@ -11,4 +11,4 @@ category: Other
 
 原因：Azure Storage Emulator没有启动。
 
-解决方法：管理者执行打开command Prompt，输入Azure Storage Emulator，启动。
+解决方法：管理者执行打开command Prompt，输入`Azure Storage Emulator`，启动。
